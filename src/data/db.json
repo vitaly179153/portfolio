@@ -1,18 +1,16 @@
 [
   {
-    "id": "building",
-    "title": "Historic Building",
-    "description": "A Historic Building.",
-    "thumbnail": "/thumbnails/building.png",
-    "file": "/models/building.glb",
-    "tags": ["building"]
+    "id": "3dmarketplace",
+    "title": "3d Marketplace",
+    "description": "A 3D marketplace website where 3d modelers, animators or game developers can browse and download their favorite 3d model.",
+    "thumbnail": "/thumbnails/3dmarketplace.png",
+    "link": "https://3dmarketplace.netlify.app/"
   },
   {
-    "id": "busstop",
-    "title": "Bus Stop",
-    "description": "A unique bus stop.",
-    "thumbnail": "/thumbnails/busstop.png",
-    "file": "/models/busstop.glb",
-    "tags": ["building"]
+    "id": "3dmarketplace",
+    "title": "3d Marketplace",
+    "description": "A 3D marketplace website where 3d modelers, animators or game developers can browse and download their favorite 3d model.",
+    "thumbnail": "/thumbnails/3dmarketplace.png",
+    "link": "https://3dmarketplace.netlify.app/"
   }
 ]
