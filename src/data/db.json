@@ -1,0 +1,18 @@
+[
+  {
+    "id": "building",
+    "title": "Historic Building",
+    "description": "A Historic Building.",
+    "thumbnail": "/thumbnails/building.png",
+    "file": "/models/building.glb",
+    "tags": ["building"]
+  },
+  {
+    "id": "busstop",
+    "title": "Bus Stop",
+    "description": "A unique bus stop.",
+    "thumbnail": "/thumbnails/busstop.png",
+    "file": "/models/busstop.glb",
+    "tags": ["building"]
+  }
+]
