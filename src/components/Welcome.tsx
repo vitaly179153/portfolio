@@ -6,7 +6,7 @@ export default function Welcome() {
         >
             <div className="w-48 h-48 rounded-full bg-gray-600 overflow-hidden mr-0 md:mr-12 mb-8 md:mb-0">
                 <img
-                    src="/thumbnails/profile.jpg"
+                    src="/thumbnails/profile.jpeg"
                     alt="Vitali"
                     className="w-full h-full object-cover"
                 />
