@@ -14,9 +14,10 @@ export default function Welcome() {
             <div className="max-w-2xl text-center md:text-left">
                 <h2 className="text-4xl font-bold mb-4 text-[#F5F5F5]">Hi, I'm Vitali</h2>
                 <p className="text-gray-300 text-lg">
-                    I'm a frontend developer passionate about building modern web apps,
-                    interactive experiences, and visually appealing UI.
-                    This portfolio showcases some of my latest projects.
+                    a front-end developer passionate about 3D web technology and interactive digital experiences.
+                    I build modern, responsive web apps using React, TypeScript, and Tailwind CSS, and I integrate Three.js / React Three Fiber to bring 3D content to life in the browser.
+
+                    I’m especially interested in using 3D modeling and visualization to create impactful, human-focused solutions — blending my technical background with my creative experience in Blender and Unreal Engine.
                 </p>
             </div>
         </section>
