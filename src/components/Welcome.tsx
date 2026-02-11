@@ -14,8 +14,7 @@ export default function Welcome() {
             <div className="max-w-2xl text-center md:text-left">
                 <h2 className="text-4xl font-bold mb-4 text-[#F5F5F5]">Hi, I'm Vitali</h2>
                 <p className="text-gray-300 text-lg">
-                    I build modern, responsive web apps using React, TypeScript, and Tailwind CSS, and I integrate Three.js / React Three Fiber to bring 3D content to life in the browser.
-                </p>
+                    I build modern, responsive web apps using React, TypeScript, and Tailwind CSS. Passionate about web development always ready to learn and improve my skills.</p>
             </div>
         </section>
     );
